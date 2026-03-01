@@ -1,1 +1,1 @@
-# GQC
+Run the scripts directly. Pade.py implements the conventional method, while Jacobi.py implements the proposed method. The mathematical derivations are documented in the accompanying notes. For implementation details, see the source code. The included data were obtained from the publicly available ENDF/B-VIII.1 library.
